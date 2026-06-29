@@ -1,6 +1,6 @@
 # DSA Code Reviewer
 
-An AI-powered web app that reviews your Data Structures & Algorithms (DSA) solutions in seconds. Paste a problem statement and your code, pick a language, and get structured feedback on **correctness, time/space complexity, optimizations, and code quality** — powered by the [Groq](https://groq.com/) LLM API.
+An AI-powered web app that reviews your Data Structures & Algorithms (DSA) solutions in seconds. Paste a problem statement and your code, pick a language, and get structured feedback on **correctness, time/space complexity, optimizations, and code quality** — powered by the [Groq](https://console.groq.com/home) LLM API.
 
 The UI is built with React + Vite + Material UI, supports **light/dark mode**, and uses a LeetCode-inspired color palette.
 
